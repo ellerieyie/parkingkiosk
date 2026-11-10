@@ -2,7 +2,7 @@
 <?php
 include("db.php");
 
-// FUNCTION PARA AUTO-DETECT NG IMAGE EXTENSION (WEBP, JPG, PNG)
+<!-- Testing Git commit -->
 function getSlotImage($imageName) {
     $folder = 'parkingslot_image/';
     $extensions = ['webp', 'jpg', 'jpeg', 'png'];
