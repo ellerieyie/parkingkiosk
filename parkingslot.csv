@@ -1,0 +1,43 @@
+SlotID,Zone,SlotName,RatePerHour,Image
+1,Zone A,A1,30.00,slot
+2,Zone A,A2,30.00,slot
+3,Zone A,A3,30.00,slot
+4,Zone A,A4,30.00,slot
+5,Zone A,A5,30.00,slot
+6,Zone A,A6,30.00,slot
+7,Zone A,A7,30.00,slot
+8,Zone A,A8,30.00,slot
+9,Zone A,A9,30.00,slot
+10,Zone A,A10,30.00,slot
+11,Zone B,B1,30.00,slot2
+12,Zone B,B2,30.00,slot2
+13,Zone B,B3,30.00,slot2
+14,Zone B,B4,30.00,slot2
+15,Zone B,B5,30.00,slot2
+16,Zone B,B6,30.00,slot2
+17,Zone B,B7,30.00,slot2
+18,Zone B,B8,30.00,slot2
+19,Zone B,B9,30.00,slot2
+20,Zone B,B10,30.00,slot2
+21,Zone C,C1,30.00,slot3
+22,Zone C,C2,30.00,slot3
+23,Zone C,C3,30.00,slot3
+24,Zone C,C4,30.00,slot3
+25,Zone C,C5,30.00,slot3
+26,Zone C,C6,30.00,slot3
+27,Zone C,C7,30.00,slot3
+28,Zone C,C8,30.00,slot3
+29,Zone C,C9,30.00,slot3
+30,Zone C,C10,30.00,slot3
+31,VIP,VIP1,150.00,vip
+32,VIP,VIP2,150.00,vip
+33,VIP,VIP3,150.00,vip
+34,VIP,VIP4,150.00,vip
+35,VIP,VIP5,150.00,vip
+36,VIP,VIP6,150.00,vip
+37,VIP,VIP7,150.00,vip
+38,SPVIP,SPVIP1,300.00,spvip
+39,SPVIP,SPVIP2,300.00,spvip
+40,SPVIP,SPVIP3,300.00,spvip
+41,SPVIP,SPVIP4,300.00,spvip
+42,SPVIP,SPVIP5,300.00,spvip
